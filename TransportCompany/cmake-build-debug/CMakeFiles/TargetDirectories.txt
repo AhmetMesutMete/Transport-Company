@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/Simulation Techniques/TransportCompany/cmake-build-debug/CMakeFiles/TransportCompany.dir
+C:/Users/User/Desktop/Simulation Techniques/TransportCompany/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Simulation Techniques/TransportCompany/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,456 @@
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 2.54712
+The average number of queued cargo units in headquarters: 1129
+Depots: 
+0 : 216.5
+1 : 206
+2 : 196
+3 : 189
+4 : 181.5
+5 : 183.5
+the average transport time for a cargo batch: 27.2289
+the average utilization of truck: 1.00074
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 3.32012e-321
+The average number of queued cargo units in headquarters: 1128.5
+Depots: 
+0 : 212.5
+1 : 206
+2 : 194
+3 : 204.5
+4 : 207.5
+5 : 209
+the average transport time for a cargo batch: 22.4571
+the average utilization of truck: 1.00252
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.879936
+The average number of queued cargo units in headquarters: 1145
+Depots: 
+0 : 199
+1 : 185
+2 : 220.5
+3 : 192.5
+4 : 196.5
+5 : 197.5
+the average transport time for a cargo batch: 23.6468
+the average utilization of truck: 1.00428
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.402276
+The average number of queued cargo units in headquarters: 1100.5
+Depots: 
+0 : 200.5
+1 : 181
+2 : 204
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 28.9984
+the average utilization of truck: 1.00172
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.913814
+The average number of queued cargo units in headquarters: 1155.51
+Depots: 
+0 : 193
+1 : 216
+2 : 209.5
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 27.0473
+the average utilization of truck: 0.876781
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 1.02853
+The average number of queued cargo units in headquarters: 1085.5
+Depots: 
+0 : 190.5
+1 : 222
+2 : 200
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 23.5815
+the average utilization of truck: 0.00723218
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 8.69229
+The average number of queued cargo units in headquarters: 1137.07
+Depots: 
+0 : 189
+1 : 208
+2 : 219.5
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 34.0297
+the average utilization of truck: 0.874949
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.413821
+The average number of queued cargo units in headquarters: 1160
+Depots: 
+0 : 200.5
+1 : 205.5
+2 : 213
+3 : 212.5
+4 : 187
+5 : 212.5
+the average transport time for a cargo batch: 28.6263
+the average utilization of truck: 1.00185
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 13.4948
+The average number of queued cargo units in headquarters: 1113.71
+Depots: 
+0 : 183
+1 : 184
+2 : 204.5
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 42.977
+the average utilization of truck: 1.00103
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: nan
+The average number of queued cargo units in headquarters: 1133
+Depots: 
+0 : 203.5
+1 : 200
+2 : 227.5
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: nan
+the average utilization of truck: 1.00309
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 2.54712
+The average number of queued cargo units in headquarters: 2252
+Depots: 
+0 : 416
+1 : 409.5
+2 : 388
+3 : 391.5
+4 : 402.5
+5 : 386.5
+the average transport time for a cargo batch: 27.2289
+the average utilization of truck: 1.00038
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 3.32012e-321
+The average number of queued cargo units in headquarters: 2230
+Depots: 
+0 : 411.5
+1 : 405.5
+2 : 377
+3 : 399
+4 : 414
+5 : 407
+the average transport time for a cargo batch: 22.4571
+the average utilization of truck: 1.00179
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.720166
+The average number of queued cargo units in headquarters: 2234.5
+Depots: 
+0 : 392
+1 : 393
+2 : 429.5
+3 : 396
+4 : 405
+5 : 387.5
+the average transport time for a cargo batch: 24.1824
+the average utilization of truck: 1.00085
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 4.11523e-309
+The average number of queued cargo units in headquarters: 2248.5
+Depots: 
+0 : 398
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 21.0548
+the average utilization of truck: 0.00219604
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.552056
+The average number of queued cargo units in headquarters: 2345.51
+Depots: 
+0 : 412
+1 : 430.5
+2 : 396.5
+3 : 410
+4 : 419.5
+5 : 386
+the average transport time for a cargo batch: 23.6405
+the average utilization of truck: 1.00027
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.806193
+The average number of queued cargo units in headquarters: 2213.5
+Depots: 
+0 : 398.5
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 23.5648
+the average utilization of truck: 0.00243675
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.874871
+The average number of queued cargo units in headquarters: 2214.51
+Depots: 
+0 : 381
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 26.4764
+the average utilization of truck: 0.00257185
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 4.39883e-309
+The average number of queued cargo units in headquarters: 2270.5
+Depots: 
+0 : 408.5
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 21.955
+the average utilization of truck: 0.00217322
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 1.67181e-309
+The average number of queued cargo units in headquarters: 2227
+Depots: 
+0 : 396
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 23.8918
+the average utilization of truck: 0.00237032
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 4.67045e-309
+The average number of queued cargo units in headquarters: 2221
+Depots: 
+0 : 401.5
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 21.5973
+the average utilization of truck: 0.00225277
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 2.54712
+The average number of queued cargo units in headquarters: 2252
+Depots: 
+0 : 416
+1 : 409.5
+2 : 388
+3 : 391.5
+4 : 402.5
+5 : 386.5
+the average transport time for a cargo batch: 27.2289
+the average utilization of truck: 1.00038
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: nan
+The average number of queued cargo units in headquarters: 2270.5
+Depots: 
+0 : 404.5
+1 : 395
+2 : 385
+3 : 396
+4 : 407
+5 : 414.5
+the average transport time for a cargo batch: nan
+the average utilization of truck: 1.00155
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 3.06291
+The average number of queued cargo units in headquarters: 2201
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 27.5703
+the average utilization of truck: 0.0021036
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.950309
+The average number of queued cargo units in headquarters: 2248.5
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 22.7826
+the average utilization of truck: 0.00195607
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.879915
+The average number of queued cargo units in headquarters: 2253.01
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 23.0572
+the average utilization of truck: 0.00210382
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 1.16042
+The average number of queued cargo units in headquarters: 2213.5
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 24.2719
+the average utilization of truck: 0.00211155
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.985554
+The average number of queued cargo units in headquarters: 2214.51
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 26.7755
+the average utilization of truck: 0.00235109
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.21269
+The average number of queued cargo units in headquarters: 2270.5
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 21.4099
+the average utilization of truck: 0.00192407
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.45699
+The average number of queued cargo units in headquarters: 2227
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 22.4134
+the average utilization of truck: 0.00208699
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 2.07117
+The average number of queued cargo units in headquarters: 2221
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 24.638
+the average utilization of truck: 0.00204228
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 2.54712
+The average number of queued cargo units in headquarters: 22.0222
+Depots: 
+0 : 3
+1 : 3
+2 : 4
+3 : 6
+4 : 4
+5 : 5.5
+the average transport time for a cargo batch: 27.2289
+the average utilization of truck: 1.02595
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: nan
+The average number of queued cargo units in headquarters: 24.5
+Depots: 
+0 : 3
+1 : 5
+2 : 6
+3 : 4.5
+4 : 4
+5 : 6
+the average transport time for a cargo batch: nan
+the average utilization of truck: 1.26262
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 0.947354
+The average number of queued cargo units in headquarters: 14.4054
+Depots: 
+0 : 7.5
+1 : 6.5
+2 : 4.5
+3 : 4.5
+4 : 3.5
+5 : 6
+the average transport time for a cargo batch: 24.6718
+the average utilization of truck: 0.98307
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 1.75
+The average number of queued cargo units in headquarters: 248.506
+Depots: 
+0 : 125.5
+1 : 125.5
+2 : 125.5
+3 : 125.5
+4 : 125.5
+5 : 125.5
+the average transport time for a cargo batch: 27.4037
+the average utilization of truck: 1.00418
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: nan
+The average number of queued cargo units in headquarters: 250.5
+Depots: 
+0 : 125.5
+1 : 125.5
+2 : 125.5
+3 : 125.5
+4 : 125.5
+5 : 125.5
+the average transport time for a cargo batch: nan
+the average utilization of truck: 1.02274
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 1.28571
+The average number of queued cargo units in headquarters: 243.556
+Depots: 
+0 : 125.5
+1 : 125.5
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 24.8103
+the average utilization of truck: 0.0343459
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 1.4
+The average number of queued cargo units in headquarters: 245.53
+Depots: 
+0 : nan
+1 : nan
+2 : nan
+3 : nan
+4 : nan
+5 : nan
+the average transport time for a cargo batch: 22.4047
+the average utilization of truck: 0.0231158
+********************************Start of New Statistics**********************************
+The average queuing time of a cargo batch: 2.54712
+The average number of queued cargo units in headquarters: 22.0222
+Depots: 
+0 : 3
+1 : 3
+2 : 4
+3 : 6
+4 : 4
+5 : 5.5
+the average transport time for a cargo batch: 27.2289
+the average utilization of truck: 1.02595
